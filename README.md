@@ -5,15 +5,15 @@
 
 ### Project Structure
 
-patient_system/
-├── backend/
-│   ├── patient_management/
-│   │   ├── patient_management/
+patient_system
+├── backend
+│   ├── patient_management
+│   │   ├── patient_management
 │   │   │   ├── __init__.py
 │   │   │   ├── settings.py
 │   │   │   ├── urls.py
 │   │   │   └── wsgi.py
-│   │   ├── api/
+│   │   ├── api
 │   │   │   ├── __init__.py
 │   │   │   ├── admin.py
 │   │   │   ├── apps.py
